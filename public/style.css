@@ -1,0 +1,55 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-size: 0px;
+}
+
+.center {
+	font-size: 16px;
+	font-family: verdana, sans-serif;
+	margin: auto;
+	text-align: center;
+}
+
+.tab-header {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	display: inline-block;
+	border-top: 1px solid black;
+	border-right:  1px solid black;
+	border-left:  1px solid black;
+	padding: 5px;
+	font-size: 16px;
+}
+
+.tab-content {
+	border-radius: 5px;
+	width: 75%;
+	padding: 25px;
+	font-size: 16px;
+	border: 1px solid black;
+	margin: auto;
+}
+
+button {
+	border-radius: 5px;
+	display: block;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 16px;
+	font-family: verdana, sans-serif;
+}
+
+.blue {
+	background-color: rgb(205, 244, 255);
+}
+
+.red {
+	background-color: rgb(251, 178, 163);
+}
+
+.green {
+	background-color: rgb(157, 224, 147);
+}
